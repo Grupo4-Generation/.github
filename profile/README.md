@@ -11,7 +11,7 @@
 # MercaDela
 ## Nossos Devs
 
-<div>
+<div align="center">
   <div> 
     <a href="https://www.linkedin.com/in/amanda-leticia-gomes-677101160/" target="_blank"><img alt="Amanda" height="216" width="216" src="https://cdn.discordapp.com/attachments/1050597957352833117/1176528914655490068/20230409_163831.jpg"></a>
     <a href="https://www.linkedin.com/in/flaviosfarias/" target="_blank"><img alt="Flávio" height="216" width="216" src="https://cdn.discordapp.com/attachments/1139577278892875784/1176499788393496627/image.png"/></a>
