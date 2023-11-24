@@ -14,7 +14,7 @@
     <a href="https://mercadela-front.vercel.app/"><img src="https://media.discordapp.net/attachments/1139577278892875784/1177223442630721606/logo-mercadela-principal.png?ex=6571b9c4&is=655f44c4&hm=12b6d00df5c1b55af3ce1d5ce57cc9e570eb4290c8bfb8b18c7fda15f216f68a&=&format=webp&width=830&height=701" alt="logo" height="500" width="500"></a>
 </div>
 
-<p> Nossa organização tem como foco o desenvolvimento de uma aplicação web que tenha como objetivo atingir o Objetivo Sustentável da ONU 5, Igualdade de gênero.</p>
+<p> Nossa organização tem como foco o desenvolvimento de uma aplicação web que tenha como foco atingir o Objetivo Sustentável da ONU 5, Igualdade de gênero.</p>
 
 ## Nossos Devs
 <div align="center">
