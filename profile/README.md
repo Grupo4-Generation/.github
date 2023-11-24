@@ -25,6 +25,8 @@
     <a href="https://www.linkedin.com/in/larissadias-santos/" target="_blank"><img alt="Larissa" height="216" width="216" src="https://cdn.discordapp.com/attachments/1139577278892875784/1176505671009718292/image.png"/></a>
     <a href="https://www.linkedin.com/in/marcos-dantas/" target="_blank"><img alt="Marcos" height="216" width="216" src="https://cdn.discordapp.com/attachments/1139577278892875784/1176500483318358077/image.png"/> </a>
     <a href="https://www.linkedin.com/in/matheus-ps-dev/" target="_blank"><img alt="Matheus" height="216" width="216" src="https://media.discordapp.net/attachments/1071094420109262960/1176533442628943912/image0.jpg"/> </a>
+
+    > Clique para ir ao LinkedIn
     
   </div>
 </div>
