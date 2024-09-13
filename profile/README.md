@@ -11,7 +11,7 @@
 # MercaDela
 
 <div align="center">
-    <a href="https://mercadela-front.vercel.app/"><img src="https://media.discordapp.net/attachments/1139577278892875784/1177223442630721606/logo-mercadela-principal.png?ex=6571b9c4&is=655f44c4&hm=12b6d00df5c1b55af3ce1d5ce57cc9e570eb4290c8bfb8b18c7fda15f216f68a&=&format=webp&width=830&height=701" alt="logo" height="500" width="500"></a>
+    <a href="https://mercadela-front.vercel.app/"><img src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/mercadelaLogos/nameFlowerBgTransparent.png?raw=true" alt="logo" height="500" width="500"></a>
 </div>
 
 <p> Nossa organização tem como foco o desenvolvimento de uma aplicação web que tenha como foco atingir o Objetivo Sustentável da ONU 5, Igualdade de gênero.</p>
@@ -19,27 +19,27 @@
 ## Nossos Devs
 <div align="center">
     <div align="center">
-      <a href="https://www.linkedin.com/in/amanda-leticia-gomes-677101160/" target="_blank"><img alt="Amanda" height="216" width="216" src="https://cdn.discordapp.com/attachments/1050597957352833117/1176528914655490068/20230409_163831.jpg"></a>
+      <a href="https://www.linkedin.com/in/amanda-leticia-gomes-677101160/" target="_blank"><img alt="Amanda" height="216" width="216" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/amanda.jpeg?raw=true"></a>
       <a href="https://www.linkedin.com/in/amanda-leticia-gomes-677101160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
     <div align="center">
-      <a href="https://www.linkedin.com/in/flaviosfarias/" target="_blank"><img alt="Flávio" height="216" width="216" src="https://cdn.discordapp.com/attachments/1139577278892875784/1176499788393496627/image.png"/></a>
+      <a href="https://www.linkedin.com/in/flaviosfarias/" target="_blank"><img alt="Flávio" height="216" width="216" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/fl%C3%A1vio.jpeg?raw=true"/></a>
       <a href="https://www.linkedin.com/in/flaviosfarias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
     <div align="center">
-      <a href="https://www.linkedin.com/in/juliadom/" target="_blank"><img alt="Julia" height="216" width="216" src="https://cdn.discordapp.com/attachments/1139577278892875784/1176502380246876220/testte-foto.png"/></a>
+      <a href="https://www.linkedin.com/in/juliadom/" target="_blank"><img alt="Julia" height="216" width="216" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/j%C3%BAlia.jpeg?raw=true"/></a>
       <a href="https://www.linkedin.com/in/juliadom/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
     <div align="center">
-      <a href="https://www.linkedin.com/in/larissadias-santos/" target="_blank"><img alt="Larissa" height="216" width="216" src="https://cdn.discordapp.com/attachments/1139577278892875784/1176505671009718292/image.png"/></a>
+      <a href="https://www.linkedin.com/in/larissadias-santos/" target="_blank"><img alt="Larissa" height="216" width="216" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/larissa.jpeg?raw=true"/></a>
       <a href="https://www.linkedin.com/in/larissadias-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
     <div align="center">
-      <a href="https://www.linkedin.com/in/marcos-dantas/" target="_blank"><img alt="Marcos" height="216" width="216" src="https://cdn.discordapp.com/attachments/1139577278892875784/1176500483318358077/image.png"/> </a>
+      <a href="https://www.linkedin.com/in/marcos-dantas/" target="_blank"><img alt="Marcos" height="216" width="216" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/marcos.jpeg?raw=true"/> </a>
       <a href="https://www.linkedin.com/in/marcos-dantas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
     <div align="center">
-      <a href="https://www.linkedin.com/in/matheus-ps-dev/" target="_blank"><img alt="Matheus" height="216" width="216" src="https://media.discordapp.net/attachments/1071094420109262960/1176533442628943912/image0.jpg"/> </a>    
+      <a href="https://www.linkedin.com/in/matheus-ps-dev/" target="_blank"><img alt="Matheus" height="216" width="216" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/matheus.jpeg?raw=true"/> </a>    
       <a href="https://www.linkedin.com/in/matheus-ps-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
 </div>
