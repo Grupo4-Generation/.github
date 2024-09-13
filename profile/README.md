@@ -19,10 +19,10 @@
 ## Nossos Devs
 
 <table align="center">
-  <tr>
+<tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/amanda-leticia-gomes-677101160/" target="_blank">
-        <img alt="Amanda" height="216" width="216" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/amanda.jpeg?raw=true">
+        <img alt="Amanda" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/amanda.jpeg?raw=true" style="width: 100%; max-width: 200px; height: auto;">
       </a><br>
       <a href="https://www.linkedin.com/in/amanda-leticia-gomes-677101160/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -30,7 +30,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/flaviosfarias/" target="_blank">
-        <img alt="Flávio" height="216" width="216" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/fl%C3%A1vio.jpeg?raw=true">
+        <img alt="Flávio" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/fl%C3%A1vio.jpeg?raw=true" style="width: 100%; max-width: 200px; height: auto;">
       </a><br>
       <a href="https://www.linkedin.com/in/flaviosfarias/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -38,7 +38,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/juliadom/" target="_blank">
-        <img alt="Julia" height="216" width="216" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/j%C3%BAlia.jpeg?raw=true">
+        <img alt="Julia" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/j%C3%BAlia.jpeg?raw=true" style="width: 100%; max-width: 200px; height: auto;">
       </a><br>
       <a href="https://www.linkedin.com/in/juliadom/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -48,7 +48,7 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/larissadias-santos/" target="_blank">
-        <img alt="Larissa" height="216" width="216" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/larissa.jpeg?raw=true">
+        <img alt="Larissa" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/larissa.jpeg?raw=true" style="width: 100%; max-width: 200px; height: auto;">
       </a><br>
       <a href="https://www.linkedin.com/in/larissadias-santos/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -56,7 +56,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/marcos-dantas/" target="_blank">
-        <img alt="Marcos" height="216" width="216" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/marcos.jpeg?raw=true">
+        <img alt="Marcos" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/marcos.jpeg?raw=true" style="width: 100%; max-width: 200px; height: auto;">
       </a><br>
       <a href="https://www.linkedin.com/in/marcos-dantas/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -64,7 +64,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/matheus-ps-dev/" target="_blank">
-        <img alt="Matheus" height="216" width="216" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/matheus.jpeg?raw=true">
+        <img alt="Matheus" src="https://github.com/Grupo4-Generation/MercaDela-Back/blob/main/conteudo/devs/matheus.jpeg?raw=true" style="width: 100%; max-width: 200px; height: auto;">
       </a><br>
       <a href="https://www.linkedin.com/in/matheus-ps-dev/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
